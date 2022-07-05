@@ -71,31 +71,48 @@ h1 {
         padding: 10px 20px;
         border-radius: 7px;
     }
-    .section-3 {}
+    .section-3 {
+        background-image: url(images/exp-bg.png);
+      background-repeat: no-repeat;
+      background-position: left;
+      margin-bottom: 30px;
+
+    }
     .fahad {
         display: flex;
        align-items: center;
        justify-content: space-around;
+    
+       
     }
     .exc-1 {
         border-left: 8px solid #FF6347;
-        height: 400px;
+        height: 350px;
         width: 400px;
-        background-color: #fff;
-        box-shadow: 10px 10px 10px 10px rgba(222, 222, 222, 222);
+        
+        box-shadow: 10px 10px 40px gray;
         border-radius: 3px;
+        z-index: 2;
     }
     .exc-2 {
         border-left: 8px solid #0000FF;
-        height: 400px;
+        height: 350px;
         width: 400px;
-        background-color: #fff;
-        box-shadow: 10px 10px 10px 10px rgba(222, 222, 222, 222);
+       
+        box-shadow: 10px 10px 40px  gray;
         border-radius: 3px;
+    }
+    .text1 {
+        margin-left: 10px;
+        font-size: 27px;
     }
     .text {
         margin-left: 10px;
     }
     .fd-cl {
         color: #FFA500;
+    }
+    .footer p {
+        text-align: center;
+        margin-top: 40px;
     }
