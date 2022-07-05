@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 40px;
+}
+.orange-color {
+    color: #FFA500;
+}
+
+.lorem-text {
+    font-size: 15px;
+}
+.hire-me {
+    background-color: #FF926E;
+    color: #ffff;
+    border: none;
+    height: 50px;
+    width: 140px;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.section-1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sec-1 {
+    width: 450px;
+}
+.sec-2 {}
+.sec-2 img {
+    height: 430px;
+    width: 450px;
+    }
