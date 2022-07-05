@@ -71,3 +71,31 @@ h1 {
         padding: 10px 20px;
         border-radius: 7px;
     }
+    .section-3 {}
+    .fahad {
+        display: flex;
+       align-items: center;
+       justify-content: space-around;
+    }
+    .exc-1 {
+        border-left: 8px solid #FF6347;
+        height: 400px;
+        width: 400px;
+        background-color: #fff;
+        box-shadow: 10px 10px 10px 10px rgba(222, 222, 222, 222);
+        border-radius: 3px;
+    }
+    .exc-2 {
+        border-left: 8px solid #0000FF;
+        height: 400px;
+        width: 400px;
+        background-color: #fff;
+        box-shadow: 10px 10px 10px 10px rgba(222, 222, 222, 222);
+        border-radius: 3px;
+    }
+    .text {
+        margin-left: 10px;
+    }
+    .fd-cl {
+        color: #FFA500;
+    }
